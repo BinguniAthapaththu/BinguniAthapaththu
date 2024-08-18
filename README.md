@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 200px></p>
 <h1 align="center">Hi 👋, I'm Binguni Athapaththu</h1>
-<h3 align="center">A fresh graduate from University of Moratuwa.</h3>
+<h3 align="center">A fresher from University of Moratuwa.</h3>
 
 <table align="center">
 <tr border="none">
